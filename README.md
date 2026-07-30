@@ -50,13 +50,7 @@ Right now I'm going deeper into Django internals, and exploring real-time and ma
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lokesh2728&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokesh2728&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="42%"/>
-
-<img src="https://streak-stats.demolab.com/?user=lokesh2728&theme=tokyonight&hide_border=true" width="49%"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=lokesh2728&theme=tokyonight&no-frame=true&row=1&column=6" width="80%"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=Lokesh2728&show_icons=true&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
