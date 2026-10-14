@@ -9,7 +9,7 @@
 <br/>
 
 <a href="https://github.com/lokesh2728">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+scalable+backend+systems;Flask+%7C+FastAPI+%7C+Django;Turning+ideas+into+production+APIs;Always+shipping%2C+always+learning&font=Fira+Code&center=true&width=440&height=45&color=0ea5e9&vCenter=true&size=22"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+scalable+backend+systems;Flask+%7C+FastAPI+%7C+Django;Turning+ideas+into+production+APIs;Always+shipping%2C+always+learning&font=Fira+Code&center=true&width=440&height=45&color=0ea5e9&vCenter=true&size=22"/>
 </a>
 
 </div>
@@ -50,7 +50,8 @@ Right now I'm going deeper into Django internals, and exploring real-time and ma
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Lokesh2728&show_icons=true&theme=tokyonight&hide_border=true" />
+<img src="./github-metrics.svg" alt="GitHub metrics" />
+
 </div>
 
 ---
@@ -59,7 +60,7 @@ Right now I'm going deeper into Django internals, and exploring real-time and ma
 
 📌 **Currently open to backend / full-stack opportunities** — reach out via [LinkedIn](https://linkedin.com/in/lokesh27patel) or [email](mailto:lokeshpatel2714@gmail.com).
 
-<img src="https://visitcount.itsvg.in/api?id=lokesh2728&icon=0&color=0" />
+<img src="https://komarev.com/ghpvc/?username=lokesh2728&label=Profile+views&color=0ea5e9&style=for-the-badge" />
 
 <sub>Built with 🐍 and too much coffee.</sub>
 
